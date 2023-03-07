@@ -27,6 +27,28 @@ The config profile (23455667_blahblahblahTeam) could not be found
     "Arn": "arn:aws:sts::1234567:assumed-role/AWSReservedSSO_TheGreatAdminnTeam_bsafasjflasj/King"
 }
 
+Creating Lambda function with Docker Image
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-resource-function.html#sam-function-imageuri
+"
+ImageUri
+The URI of the Amazon Elastic Container Registry (Amazon ECR) repository for the Lambda function's container image. This property only applies if the PackageType property is set to Image, otherwise it is ignored. For more information, see Using container images with Lambda in the AWS Lambda Developer Guide.
+
+Note
+If the PackageType property is set to Image, then either ImageUri is required, or you must build your application with necessary Metadata entries in the AWS SAM template file. For more information, see Building applications.
+Building your application with necessary Metadata entries takes precedence over ImageUri, so if you specify both then ImageUri is ignored.
+
+Type: String
+
+Required: No
+
+AWS CloudFormation compatibility: This property is passed directly to the ImageUri property of the AWS::Lambda::Function Code data type.
+"
+
+
+
+CapitalOne AWS Serverless Blog
+https://www.capitalone.com/tech/cloud/serverless-first-strategy/?linkId=204385516
+
 
 Icons
 https://awsicons.dev
