@@ -10,6 +10,23 @@ https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-rest-api-lamb
 
 CodeBuild
   https://aws.amazon.com/blogs/devops/build-a-continuous-delivery-pipeline-for-your-container-images-with-amazon-ecr-as-source/
+  
+AWS deploy troubleshooting via shell script
+ % aws --version
+aws-cli/2.9.20 Python/3.9.11 Darwin/21.6.0 exe/x86_64 prompt/off
+% aws sts get-caller-identity
+
+An error occurred (ExpiredToken) when calling the GetCallerIdentity operation: The security token included in the request is expired
+% aws sts get-caller-identity --profile 23455667_blahblahblahTeam
+
+The config profile (23455667_blahblahblahTeam) could not be found
+% aws sts get-caller-identity --profile 2345667_TheGreatAdminTeam
+{
+    "UserId": "sdfgsdfgsdgfdgK:King",
+    "Account": "1234567",
+    "Arn": "arn:aws:sts::1234567:assumed-role/AWSReservedSSO_TheGreatAdminnTeam_bsafasjflasj/King"
+}
+
 
 Icons
 https://awsicons.dev
