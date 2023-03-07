@@ -28,6 +28,7 @@ The config profile (23455667_blahblahblahTeam) could not be found
 }
 
 Creating Lambda function with Docker Image
+  https://github.com/aws/aws-sam-cli/issues/3239
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-resource-function.html#sam-function-imageuri
 "
 ImageUri
