@@ -5,6 +5,12 @@ AWS
 Event-Driven Architectures vs. Event-Based Compute in Serverless Applications
 https://www.alexdebrie.com/posts/event-driven-vs-event-based/
 
+API Gateay
+https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-rest-api-lambda-integrations/
+
+CodeBuild
+  https://aws.amazon.com/blogs/devops/build-a-continuous-delivery-pipeline-for-your-container-images-with-amazon-ecr-as-source/
+
 Icons
 https://awsicons.dev
 
