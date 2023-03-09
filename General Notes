@@ -45,7 +45,10 @@ Required: No
 AWS CloudFormation compatibility: This property is passed directly to the ImageUri property of the AWS::Lambda::Function Code data type.
 "
 
+Lambda spike 
+https://aws.amazon.com/premiumsupport/knowledge-center/lambda-invocation-spike/#:~:text=Identify%20the%20cause%20of%20the%20invocation%20requests%20spike&text=Turn%20on%20AWS%20CloudTrail%20data,Lambda%20function%20data%20and%20metadata.
 
+https://aws.amazon.com/blogs/compute/using-container-image-support-for-aws-lambda-with-aws-sam/
 
 CapitalOne AWS Serverless Blog
 https://www.capitalone.com/tech/cloud/serverless-first-strategy/?linkId=204385516
