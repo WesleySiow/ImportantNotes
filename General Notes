@@ -71,6 +71,7 @@ https://globaldatanet.com/tech-blog/develop-lambda-functions-with-aws-lambda-pow
 AWS - ECR update to lambda function
 https://repost.aws/questions/QUIYIekruRR1OVh7TRCmAbGQ/how-to-trigger-lambda-function-when-image-is-pushed-to-ecr
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/ecr-eventbridge.html
+https://github.com/aws/aws-cli/discussions/7182
 
 Icons
 https://awsicons.dev
