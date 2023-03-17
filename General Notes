@@ -76,6 +76,7 @@ https://www.reddit.com/r/aws/comments/qgvucr/how_to_automatically_update_my_lamb
 
 AWS - Paginator
 https://stackoverflow.com/questions/39201093/how-to-use-boto3-pagination
+https://github.com/boto/boto3/issues/788
 
 Icons
 https://awsicons.dev
