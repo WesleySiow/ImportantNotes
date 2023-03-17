@@ -74,6 +74,9 @@ https://docs.aws.amazon.com/AmazonECR/latest/userguide/ecr-eventbridge.html
 https://github.com/aws/aws-cli/discussions/7182
 https://www.reddit.com/r/aws/comments/qgvucr/how_to_automatically_update_my_lambda_functions/
 
+AWS - Paginator
+https://stackoverflow.com/questions/39201093/how-to-use-boto3-pagination
+
 Icons
 https://awsicons.dev
 
