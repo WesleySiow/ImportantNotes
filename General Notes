@@ -83,6 +83,8 @@ https://github.com/boto/boto3/issues/788
 Click - cli interface documentation
 https://www.zonca.dev/posts/2022-10-26-click-commandline-class-arguments
 https://www.assemblyai.com/blog/the-definitive-guide-to-python-click/
+Install editable python package
+https://stackoverflow.com/questions/35064426/when-would-the-e-editable-option-be-useful-with-pip-install
 
 Icons
 https://awsicons.dev
