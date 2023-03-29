@@ -71,6 +71,9 @@ https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-availabl
 AWS - Powertool 
 https://globaldatanet.com/tech-blog/develop-lambda-functions-with-aws-lambda-powertools
 
+AWS Well Architecture Labs
+https://www.wellarchitectedlabs.com/operational-excellence/200_labs/200_build_aws_health_aware_operation_change_process/1_deploy_ssm_application_environment/
+
 AWS - ECR update to lambda function
 https://repost.aws/questions/QUIYIekruRR1OVh7TRCmAbGQ/how-to-trigger-lambda-function-when-image-is-pushed-to-ecr
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/ecr-eventbridge.html
