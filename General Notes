@@ -11,6 +11,9 @@ https://stackoverflow.com/questions/69923628/how-to-find-the-lambda-function-tha
 AWS Cloudwatch Log
 https://blog.awsfundamentals.com/understanding-aws-cloudwatch-pricing-a-comprehensive-guide
 
+AWS Lambda function multiprocessing
+https://pypi.org/project/lambda-multiprocessing/
+
 API Gateay
 https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-rest-api-lambda-integrations/
 
