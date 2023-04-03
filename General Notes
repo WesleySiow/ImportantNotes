@@ -102,6 +102,9 @@ https://pocoo-click.readthedocs.io/en/latest/api/
 AWS Lambda Power Tuning
 https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:451282441545:applications~aws-lambda-power-tuning
 
+AWS Batch Best Practices
+https://docs.aws.amazon.com/batch/latest/userguide/best-practices.html
+
 AWS Batch Architecture optimizing
 https://aws.amazon.com/blogs/hpc/optimizing-aws-batch-with-observability-dashboards/
 
