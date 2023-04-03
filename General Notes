@@ -99,6 +99,7 @@ Install editable python package
 https://stackoverflow.com/questions/35064426/when-would-the-e-editable-option-be-useful-with-pip-install
 https://pocoo-click.readthedocs.io/en/latest/api/
 
+
 AWS Lambda Power Tuning
 https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:451282441545:applications~aws-lambda-power-tuning
 
@@ -107,6 +108,7 @@ https://docs.aws.amazon.com/batch/latest/userguide/best-practices.html
 
 AWS Batch Architecture optimizing
 https://aws.amazon.com/blogs/hpc/optimizing-aws-batch-with-observability-dashboards/
+https://docs.aws.amazon.com/wellarchitected/latest/high-performance-computing-lens/batch-based-architecture.html
 
 OpenEye AWS 
 https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-best-practices-for-running-enterprise-workloads-on-aws-ent213
