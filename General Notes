@@ -97,9 +97,13 @@ https://www.zonca.dev/posts/2022-10-26-click-commandline-class-arguments
 https://www.assemblyai.com/blog/the-definitive-guide-to-python-click/
 Install editable python package
 https://stackoverflow.com/questions/35064426/when-would-the-e-editable-option-be-useful-with-pip-install
+https://pocoo-click.readthedocs.io/en/latest/api/
 
 AWS Lambda Power Tuning
 https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:451282441545:applications~aws-lambda-power-tuning
+
+AWS Batch Architecture optimizing
+https://aws.amazon.com/blogs/hpc/optimizing-aws-batch-with-observability-dashboards/
 
 Icons
 https://awsicons.dev
