@@ -86,6 +86,8 @@ https://docs.aws.amazon.com/AmazonECR/latest/userguide/ecr-eventbridge.html
 https://github.com/aws/aws-cli/discussions/7182
 https://www.reddit.com/r/aws/comments/qgvucr/how_to_automatically_update_my_lambda_functions/
 
+AWS Lambda Web Adapter
+https://github.com/awslabs/aws-lambda-web-adapter
 
 AWS - Paginator
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/paginators.html (NextToken is not needed)
