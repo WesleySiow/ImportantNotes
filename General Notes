@@ -137,6 +137,9 @@ https://marcomuellner.github.io/openapi-python-generator/tutorial/
 AWS ALB
 https://gyro.dev/providers/aws/load-balancer/application-load-balancer-listener-rule.html
 
+AWS ALB vs API Gateway
+https://t3chflicks.medium.com/cheaper-than-api-gateway-alb-with-lambda-using-cloudformation-b32b126bbddc
+
 https://www.pulumi.com
 Create reusable infrastructure components or self-service infrastructure platforms that empower your application developers to easily and quickly deploy and use infrastructure they need to build applications.
 
