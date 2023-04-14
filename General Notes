@@ -77,6 +77,10 @@ https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-availabl
 AWS - Powertool 
 https://globaldatanet.com/tech-blog/develop-lambda-functions-with-aws-lambda-powertools
 
+AWS - Secret Manager / Parameter Lambda extension
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/retrieving-secrets_lambda.html
+https://www.stratusgrid.com/open-space/using-the-lambda-secrets-manager-extension?locale=en
+
 AWS Well Architecture Labs
 https://www.wellarchitectedlabs.com/operational-excellence/200_labs/200_build_aws_health_aware_operation_change_process/1_deploy_ssm_application_environment/
 
