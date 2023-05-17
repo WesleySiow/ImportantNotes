@@ -1,0 +1,38 @@
+Join
+!Join [ "", [ "arn:aws:s3::", !Ref ImageBucketName, "/*" ] ]
+
+Sub
+!Sub "arn:aws:s3:::${ImageBucketName}/*"
+
+Condition
+
+        Parameters:
+          ListenerArn:
+            Type: 'AWS::SSM::Parameter::Value<String>'
+            Default: /dcs/api/vx-pm-service-core-alb/listener_arn
+          Environment:
+            Description: Specify the Environment of the stack.
+            Type: String    
+            Default: dev
+            AllowedValues:
+              - dev
+              - tes
+              - prod
+
+        Conditions:
+            isProduction: !Equals [ !Ref Environment, prod ]   
+
+        Globals:
+          Function:
+            MemorySize: 1024
+            Timeout: 900
+            Architectures:
+              - x86_64    
+            Environment:
+              Variables:
+                LOG_LEVEL: !If [ isProduction, INFO, DEBUG]    
+                POWERTOOLS_SERVICE_NAME: !Ref AWS::StackName        
+                STAGE: !Ref Environment
+                Project: !Ref Project
+                Team: !Ref Team
+                IN_AWS_ACCOUNT: !If [ isProduction, SherlockProd, SherlockDev]
