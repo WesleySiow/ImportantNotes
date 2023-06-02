@@ -1,0 +1,9 @@
+Test covering:
+
+1. compute 1 GB memory, 10 to 30 seconds large EC2 fleet. Most cost effective. 
+
+    Lambda 
+2. Share cost for multiple account , how to configure from console. 
+    Create  new Organization member account / management account
+    
+    
