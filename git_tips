@@ -1,0 +1,11 @@
+Bitbucket error :
+git submodule add https://user_name@bitbucket.org/folder1/abc.git
+I get the following error:
+Missing or invalid credentials.
+remote: Invalid credentials
+fatal: Authentication failed for 'https://user_name@bitbucket.org/folder1/abc.git'
+
+Solution :
+Create an "app password" in bitbucket following the instructions https://community.atlassian.com/t5/Bitbucket-questions/Login-failed-due-to-incorrect-login-credentials-or-method/qaq-p/2195927
+git clone https://user_name:abcdefghijklmnopqrstuvyxyz@bitbucket.org/folder1/abc.git submodules/cicd 
+
