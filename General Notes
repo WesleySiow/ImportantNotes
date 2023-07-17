@@ -75,6 +75,7 @@ AWS - Application Composer
 https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/
 https://serverless.kpingfan.com/11.others/application-composer/
 https://docs.aws.amazon.com/application-composer/latest/dg/getting-started-build.html
+https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer/
 
 AWS - Powertool 
 https://globaldatanet.com/tech-blog/develop-lambda-functions-with-aws-lambda-powertools
@@ -159,6 +160,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7bed597e-98dc-48d7-88a5-b
 https://catalog.us-east-1.prod.workshops.aws/workshops/6735ed89-c2de-4180-904c-40ac9fba7419/en-US
 https://catalog.us-east-1.prod.workshops.aws/workshops/21c996a7-8ec9-42a5-9fd6-00949d151bc2/en-US
 https://catalog.us-east-1.prod.workshops.aws/workshops/2d960419-7d15-44e7-b540-fd3ebeb7ce2e/en-US (Serverless Optimizatin - performance and cost)
+https://catalog.workshops.aws/complete-aws-sam/en-US (Complete AWS SAM workshop with CodePipeline creation)
 
 
 Python invoke setup
