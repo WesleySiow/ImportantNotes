@@ -176,3 +176,7 @@ Passcode: +^MBA6&l
 python 3.7 slim stretch
 https://stackoverflow.com/questions/76094428/debian-stretch-repositories-404-not-found
 https://lists.debian.org/debian-devel-announce/2023/03/msg00006.html
+
+Poetry 
+Dependency specification
+https://python-poetry.org/docs/dependency-specification/
