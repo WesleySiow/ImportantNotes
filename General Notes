@@ -180,3 +180,7 @@ https://lists.debian.org/debian-devel-announce/2023/03/msg00006.html
 Poetry 
 Dependency specification
 https://python-poetry.org/docs/dependency-specification/
+
+Tag based trigger
+https://ruddra.com/aws-codebuild-use-git-tags/
+https://medium.com/maestral-solutions/create-git-tags-in-the-form-of-semantic-build-numbers-using-aws-codebuild-and-aws-codepipeline-e52210d719df
