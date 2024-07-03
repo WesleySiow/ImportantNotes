@@ -184,3 +184,11 @@ https://python-poetry.org/docs/dependency-specification/
 Tag based trigger
 https://ruddra.com/aws-codebuild-use-git-tags/
 https://medium.com/maestral-solutions/create-git-tags-in-the-form-of-semantic-build-numbers-using-aws-codebuild-and-aws-codepipeline-e52210d719df
+
+
+Great IAM trust policy with condition statements:
+https://www.elliotsegler.com/creating-conditional-iam-policies-in-cloudformation.html
+
+
+
+https://www.techtarget.com/searchcloudcomputing/tutorial/How-to-Create-an-AWS-Lambda-Function-with-CloudFormation
